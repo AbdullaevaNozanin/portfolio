@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+}
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+  list-style: none;
+}
+.navbar ul li {
+  margin: 10px 30px;
+}/*# sourceMappingURL=main.css.map */
